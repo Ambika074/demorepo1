@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="Demofetchpull">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="Demofetchpull"/>
         <property name="java-output-path" value="/Demofetchpull/build/classes"/>
+=======
+    <wb-module deploy-name="Demopullfetch1">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Demopullfetch1"/>
+        <property name="java-output-path" value="/Demopullfetch1/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/Ambika074/demorepo1.git
     </wb-module>
 </project-modules>
